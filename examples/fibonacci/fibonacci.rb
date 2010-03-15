@@ -1,5 +1,9 @@
 class Integer
   def fibonacci
-    0
+    if self == 1
+      0
+    else
+      1
+    end
   end
 end
