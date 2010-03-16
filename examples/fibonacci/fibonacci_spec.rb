@@ -11,7 +11,7 @@ describe Integer, 'fibonacci' do
     2.fibonacci.should == 1
   end
 
-  it "should be 0 for third fibonacci number" do
+  it "should be 1 for third fibonacci number" do
     3.fibonacci.should == 1
   end
 
