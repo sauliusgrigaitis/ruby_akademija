@@ -15,8 +15,8 @@ describe Integer, 'fibonacci' do
     3.fibonacci.should == 1
   end
 
+  it "should be 2 for forth fibonacci number" do
+    4.fibonacci.should == 2
+  end
 end
-
-    
-
 
