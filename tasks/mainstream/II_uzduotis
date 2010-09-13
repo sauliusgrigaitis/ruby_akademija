@@ -1,0 +1,16 @@
+2) Įsisavinti palygintojus (angl. "matcher") ir duomenų pakrovimą/išsaugojimą iš/į failus
+  a) Turi būti panaudoti bent du standartiniai matcher'iai
+  b) Turi būti panaudoti bent vienas custom matcher'is
+  c) Turi būti realizuotas duomenų pakrovimas ir išsaugojimas į failą/us (pvz panaudojant YAML failus)
+  d) Naudojama pirmoje užduotyje parašyta programa  
+  i) Naudojama Rails 3, Ruby 1.9, RSpec 2
+
+Pastabos:
+Visi reikalavimai turi būti išplidyti prasmingai, o ne tik tam, kad patenkinti formalų reikalavimą!
+Užduočių reikalavimai gali keistis!
+
+Įvertinimas:
+Max 1 balas iki 2010-11-07
+Max 0.5 balo iki 2010-11-14
+Max 0.25 balo iki 2010-11-21
+

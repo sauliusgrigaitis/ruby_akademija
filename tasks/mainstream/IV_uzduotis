@@ -1,0 +1,16 @@
+4) Sukurti Ruby on Rails WEB aplikaciją, kuri iš esmės yra tik vartotojo sąsaja kuriamam algoritmui:
+  a) Turi būti bent vienas testas GET "action'ui" 
+  b) Turi būti bent vienas testas POST "action'ui" 
+  c) Testuose duomenų pakrovimui turi būti panaudotas koks nors testinių duomenų pakrovimo įrankis (pvz. Fixtures)
+  d) Naudojama pirmoje, antroje ir trečioje užduotyje parašyta programa  
+  e) Naudojama Rails 3, Ruby 1.9, RSpec 2
+
+
+Pastabos:
+Visi reikalavimai turi būti išplidyti prasmingai, o ne tik tam, kad patenkinti formalų reikalavimą!
+Užduočių reikalavimai gali keistis!
+
+Įvertinimas:
+Max 1 balas iki paskutinių pratybų
+
+

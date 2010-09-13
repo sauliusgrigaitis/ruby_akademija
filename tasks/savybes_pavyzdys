@@ -1,0 +1,37 @@
+* vartotojas gali atidaryti sąskaitą
+    vartotojai turi vardą ir pavardę, lytis
+    turi sąskaitos numerį(automatiškai generuojamas)
+    turi balansą
+    vartotojo ID
+    vartotojo adresas, el. paštas, skype, telefono nr(nebūtina)
+* vartotojas gali prisijungti prie sistemos
+* vartotojas gali perversti pinigus kitam vartojui
+* vartotojas gali inešti pinigų
+* vartotojui turi ateiti pinigai (neateiti negali, jeigu kas nors pervedė)
+vartotojas gali matyti balansą
+vartotojas gali skolintis iš banko
+vartotojas gali išsiimit pinigų iš savo sąskaitos
+vartotojas gali atsijungti iš sistemos
+vartotojas gali pasiimti išrašą
+vartotojas gali uždaryti sąskaitą
+vartotojas gali užsisakyti kortelę
+vartotojas gali konvertuoti valiutą
+
+Bankininkas:
+Aš turiu matyti/gauti balansą
+Galiu pasiskolinti pinigų iš kitų bankų
+Paskolinti kitiems bankams
+Galiu keisti palūkanų normas
+Keisti valiutų kursus
+Surasti vartotoją
+Užblokuoti/keisti vartotojo duomenis
+Nustatyti sąskaitos aptarnavimo mokestį
+Automatiškai nurašyti sąskaitos aptarnavimo mokestį
+Nustatyti visų paslaugų tarifus
+Automatiškai nurašyti pinigus už suteiktas paslaugas
+Nurašytus pinigus pervesti į banko sąskaitą
+Pažiūrėti kokie dabartiniai valiutos kursai
+Pažiūrėti kokias tranzakcijas padarė vartotojas (ataskaita)
+Matyti totalią ataskaitą
+Keisti banko pavadinimą
+

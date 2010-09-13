@@ -1,0 +1,22 @@
+Tiksas - įsisavinti:
+  (a) Ruby on Rails kontrolerių (angl. "controllers") testavimą
+  (b) Ruby on Rails vaizdų (angl. "views") testavimą
+  (c) "Stub" ir "Mock" mechanizmus 
+
+Užduotis:
+  1) Realizuoti bent dalį vartotojo sąsajos panaudojant Ruby on Rails karkasu. T.y. dalį vartotojo sąsajos, kuri buvo realizuota pirmoje programoje, reikia pertvarkyti į WEB sąsają. Realizuota sąsaja turėtų būti kažkoks išbaigtas ir vientisas fragmentas iš kuriamos sistemos visos vartotojo sąsajos. Pvz., vartotojo registracija, aktivacija, autentikacija. 
+
+Reikalavimai:
+  1)Turėtų būti ištestuoti bent po tris būsenos nekeičiančius(GET) ir būseną keičiančius(POST...) veiksmus (angl. "actions"). Testų turėtų būti bent 10.
+  2) Tikslingai panaudoti bent po 2 "Stub'us" ir "Mock'us" (pvz. Mocha http://mocha.rubyforge.org/ )
+  3) Parašyti bent 5 vaizdų testus.
+  4) Testiniams duomenims paruošti naudojamas II užduotyje pasirinktas būdas.
+  5) Naudojama ankstesnėse užduotyse padaryta programa
+  6) Naudojama Rails 3, Ruby 1.9, RSpec 2
+
+Pastabos:
+Visi reikalavimai turi būti išplidyti prasmingai, o ne tik tam, kad patenkinti formalų reikalavimą!
+Užduočių reikalavimai gali keistis!
+
+Max 1 balas iki semestro pabaigos
+
