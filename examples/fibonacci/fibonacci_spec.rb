@@ -1,6 +1,5 @@
-require 'rubygems'
-require 'spec'
-require 'fibonacci'
+require 'rspec'
+require File.dirname(__FILE__) + '/fibonacci.rb'
 
 describe Integer, 'fibonacci' do
   it "should be 0 for 0th fibonacci number" do
