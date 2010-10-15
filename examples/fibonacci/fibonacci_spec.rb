@@ -1,4 +1,6 @@
-require 'rspec'
+require 'simplecov'
+SimpleCov.start
+
 require File.dirname(__FILE__) + '/fibonacci.rb'
 
 describe Integer, 'fibonacci' do
