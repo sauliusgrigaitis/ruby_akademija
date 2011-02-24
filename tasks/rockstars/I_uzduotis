@@ -25,6 +25,7 @@ Užduotis:
     i) Negalima naudoti Rails ar kokio nors kito karkaso atliekant šią užduotį. T.y. užduotis turi daugiau demonstruoti gebėjimą programuoti Ruby, o ne naudojimąsi kokiu nors karkasu.
     j) Programa turi išsaugoti būseną ir ją atstatyti (pvz panaudojant YAML failus)
     k) Pasirinktu būdų turi būti parodoma, kad programa ir testai buvo rašomi žingsnis po žingsnio ( rekomenduoju Git versijų kontrolės sistemą)
+    l) Užduočiai naudojama Ruby 1.9 ir RSpec 2.X versijos
 
   3) Papildomi balai: 
     Skiriama po 0.2 balo už 2) skiltyje nurodytų aiškiai pamatuojamų reikalavimų dvigubą įvykdymą, pvz. tikslinis 10 palygintojų panaudojimas
@@ -35,7 +36,10 @@ Visi reikalavimai turi būti išplidyti prasmingai, o ne tik tam, kad patenkinti
 Užduočių reikalavimai gali keistis!
 
 Įvertinimas:
-Max 1 balas iki 2010-10-31
-Max 0.5 balo iki 2010-11-07
-Max 0.25 balo iki 2010-11-14
+Studentas atneša aukščiau išvardintus reikalavimus tenkinančią programą ir gauna datą, pagal kurią gali gauti:
+Max 3 balai pasižymėjus iki 2011-03-24
+Max 1.5 balo pasižymėjus iki 2011-03-31
+Max 0.75 balo pasižymėjus iki 2011-03-07
+
+Užduoties negalima atsiskaityti paskutines dvi pratybas, nors ir buvo pasižymėta laiku.
 
