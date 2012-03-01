@@ -11,16 +11,11 @@ Reikalavimai:
   3) Pasirinkti vieną iš testinių duomenų paruošimo būdų ir pertvarkyti testus, kad jie testiniams duomenims paruošti naudotų tpasirinktą būdą (pvz. Fixtures: http://api.rubyonrails.org/classes/Fixtures.html )
   4) Vartotojo sąsaja šiai užduočiai nereikalinga
   5) Naudojama ankstesnėse užduotyse padaryta programa
-  6) Naudojama Rails 3, Ruby 1.9, RSpec 2.X
+  6) Naudojama Rails 3.2, Ruby 1.9, RSpec 2.X
 
 Pastabos:
 Visi reikalavimai turi būti išplidyti prasmingai, o ne tik tam, kad patenkinti formalų reikalavimą!
 Užduočių reikalavimai gali keistis!
-
-Studentas atneša aukščiau išvardintus reikalavimus tenkinančią programą ir gauna datą, pagal kurią gali gauti:
-Max 2 balai pasižymėjus iki 2011-04-28
-Max 1 balas ipasižymėjus iki 2011-05-05
-Max 0.5 balo pasižymėjus iki 2011-05-12
 
 Užduoties negalima atsiskaityti paskutines dvi pratybas, nors ir buvo pasižymėta laiku.
 
