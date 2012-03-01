@@ -1,0 +1,22 @@
+Tiksas - įsisavinti:
+  (a) Kodo, parašyto naudojant elgsena paremtą programamavimą, pertvarkymą
+  (b) "Stub" ir "Mock" mechanizmus 
+  (c) Testinių duomenų paruošimo būdus
+
+Užduotis:
+  1) Pertvarkyti I užduoties programą į "Ruby on Rails" programa. T.y. nekeičiant funkcionalumo esybių klasės turi būti pertvarkytos "ActiveRecord" klases. Testai taip pat turi būti pervarkyti. Turėtų būti kaip galima mažiau pakeitimų kode, neturėtų pasikeisti sistemos funkcionalumas, t.y. "spec'ų" anraštės turėtų išlikti tokios pačios.
+Reikalavimai:
+  1) Tikslingai panaudoti bent po 2 "Stub'us" ir "Mock'us" (pvz. Mocha http://mocha.rubyforge.org/ )
+  2) Turi būti panaudotos "ActiveRecord" sąvybės ten kur jos tinka ( pvz. validatoriai: http://api.rubyonrails.org/classes/ActiveRecord/Validations/ClassMethods.html , asociacijos: http://api.rubyonrails.org/classes/ActiveRecord/Associations/ClassMethods.html ir kt.)
+  3) Pasirinkti vieną iš testinių duomenų paruošimo būdų ir pertvarkyti testus, kad jie testiniams duomenims paruošti naudotų tpasirinktą būdą (pvz. Fixtures: http://api.rubyonrails.org/classes/Fixtures.html )
+  4) Vartotojo sąsaja šiai užduočiai nereikalinga
+  5) Naudojama ankstesnėse užduotyse padaryta programa
+  6) Naudojama Rails 3.2, Ruby 1.9, RSpec 2.X
+
+Pastabos:
+Visi reikalavimai turi būti išplidyti prasmingai, o ne tik tam, kad patenkinti formalų reikalavimą!
+Užduočių reikalavimai gali keistis!
+
+Užduoties negalima atsiskaityti paskutines dvi pratybas, nors ir buvo pasižymėta laiku.
+
+
