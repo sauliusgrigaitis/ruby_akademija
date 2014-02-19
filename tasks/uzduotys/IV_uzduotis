@@ -11,7 +11,7 @@ Reikalavimai:
   3) Pasirinkti vieną iš testinių duomenų paruošimo būdų ir pertvarkyti testus, kad jie testiniams duomenims paruošti naudotų tpasirinktą būdą (pvz. Fixtures: http://api.rubyonrails.org/classes/Fixtures.html )
   4) Vartotojo sąsaja šiai užduočiai nereikalinga
   5) Naudojama ankstesnėse užduotyse padaryta programa
-  6) Naudojama Rails 3.2, Ruby 1.9, RSpec 2.X
+  6) Naudojama Rails 4.0, Ruby 2.1, RSpec 2.X
 
 Pastabos:
 Visi reikalavimai turi būti išplidyti prasmingai, o ne tik tam, kad patenkinti formalų reikalavimą.
