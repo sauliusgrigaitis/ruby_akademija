@@ -5,7 +5,7 @@ Užduotis:
   2) Sugalvoti bent 30 sistemos savybių iš sistemos naudotojų pusės ( pavyzdys http://github.com/sauliusgrigaitis/bank/blob/master/uzduotys/savybes ). Kuo daugiau sugalvosite, tuo geriau, nes nebūtina visų įgyvendinti, svarbu įgyvendinti svarbiausias.
   3) Surušiuoti sistemos savybes pagal jų svarbą, t.y. pirmos savybės bus tos, kurios teikia didžiausią naudą vartotojui. 
   4) Susigrupuoti į komandas iš 1-2 žmonių
-  5) 1), 2), 3) ir 4) užregistruoti el. paštu saulius at necolt taškas com
+  5) 1), 2), 3) ir 4) užregistruoti el. paštu saulius at necolt taškas com būtinai nurodant studento pažymėjimo numerį.
 
 Reikalavimai:
   1) Užduoties tema turi būti pakankamos apimties, minimalus reikalavimas yra 5 esminės esybės (ne sąvybės). Pvz. jei kuriama bankinė sistema, tai esminės esybės būtų: Sąskaita, Vartotojas, Tranzakcija, Valiuta, PalūkanųNorma.
