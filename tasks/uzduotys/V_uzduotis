@@ -8,13 +8,18 @@ Užduotis:
 
 Reikalavimai:
   1)Turėtų būti ištestuoti bent po tris būsenos nekeičiančius(GET) ir būseną keičiančius(POST...) veiksmus (angl. "actions"). Testų turėtų būti bent 10.
-  2) Tikslingai panaudoti bent po 2 "Stub'us" ir "Mock'us" (pvz. Mocha http://mocha.rubyforge.org/ )
+  2) Tikslingai panaudoti bent po 2 "Stub'us" ir "Mock'us" kontroleriu testuose ( ankstesnėje užduotyje panaudoti "Stub'ai" ir "Mock'ai" nesiskaito )
   3) Parašyti bent 5 vaizdų testus.
   4) Testiniams duomenims paruošti naudojamas II užduotyje pasirinktas būdas.
   5) Naudojama ankstesnėse užduotyse padaryta programa
-  6) Naudojama Rails 4.0, Ruby 2.1, RSpec 2.X 
+  6) Naudojama Rails 4.1, Ruby 2.1, RSpec 3.1
+  7) Kodo padengimui testais patikrinti naudojamas SimpleCov. 
+  8) Reikia panaudoti RuboCop įrankį ir pademonstruoti kodo atitikimą "Ruby Style Guide".
+  9) Reikia panaudoti Rails_best_practices įrankį visam parašytam kodui. 
+
+
 
 Pastabos:
-Visi reikalavimai turi būti išplidyti prasmingai, o ne tik tam, kad patenkinti formalų reikalavimą.
+Visi reikalavimai turi būti išpildyti prasmingai, o ne tik tam, kad patenkinti formalų reikalavimą.
 
 Įvertinimas: 1.5 balo

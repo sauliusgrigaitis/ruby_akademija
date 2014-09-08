@@ -5,23 +5,24 @@ Tikslas - įsisavinti:
   (d) Ruby progravimo kalbą
 
 Užduotis:
-  1) Įgyvendinti visą sistemos funkcionalumą pratęsiant antros užduoties darbą.
+  1) Įgyvendint dalį sistemos funkcionalumo pratęsiant antros užduoties darbą.
 
 Reikalavimai:
   1) Kodas turi būti rašomas panaudojant OOP principus, Ruby idiomas (pvz. iteratoriai vietoj ciklų), Ruby vardų taisykles, dviejų tarpų (angl. "space") symbolių indentaciją ir pan.
-  2) Testų rinkinį turi sudaryti bent 50 testų. Bent 40 iš jų turi būti skirta tai konkrečiai dalykinei sričiai, kuriai kuriama sistema. Pvz. vartotojo registraciją turės beveik visos sistemos ir tai nėra dalykinės srities dalis, tad šios savybės testai neįeina į tuos bent 40, tuo tarpu pinigų pervedimo iš vienos sąskaitos į kitą saskaitą įeitų į tuos 40. Tai nereiškia, kad kodas, kuris yra nepriklausomas nuo dalykinės srities gali būti netestuotas. Tai reiškia, kad studentas turi sugalvoti kaip galima unikalesnę temą. Todėl tokių sistemų kaip nuoma, pardavimai, užsakymai ir pan. nerekomenduojama rinktis!
-  3) Turi būti tikslingai (t.y. ten kur jų tikrai reikia) panaudoti bent 5 palygintojai (angl. "matcher"). Sąrašas http://github.com/dchelimsky/rspec/tree/master/lib/spec/matchers/ , daugiau apie kiekvieną yra dokumentacijoje pačiuose juos aprašančiuose failuose.
-  4) Turi būti sukurti ir tikslingai panaudoti bent du savi palygintojai ( http://wiki.github.com/dchelimsky/rspec/custom-matchers )
+  2) Testų rinkinį turi sudaryti bent 30 testų. Visi jie turi būti skirti tai konkrečiai dalykinei sričiai, kuriai kuriama sistema. Tai nereiškia, kad kodas, kuris yra nepriklausomas nuo dalykinės srities gali būti netestuotas. Pvz. puikiai tinka testas, kuris bankinėje sistemoje testuoja ar korektiškai nukeliauja pinigai gavėjui, kai siuntėjas atlieka pavedimą. Bet visiškai netinka toks testas, kuris testuoja kokio tipo objektas susikūrė iškvietus 'initialize' metodą, nes tai visiškai neparodo ar sistema veikia korektiškai ar ne.
+  3) Turi būti tikslingai (t.y. ten kur jų tikrai reikia) panaudoti bent 5 standartiniai palygintojai (angl. "matcher"). Sąrašas https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers.
+  4) Turi būti sukurti ir tikslingai panaudoti bent du savi palygintojai ( https://www.relishapp.com/rspec/rspec-expectations/v/3-1/docs/custom-matchers )
   5) Esybės aprašomos klasėmis, kiekviena klasė atskirame faile.
   6) Esybes aprašančios klasės ir testai turi būti parašyti taikant elgsena paremtą programavimą.
-  7) Esybes aprašančios klasės turi būti 100% padengtos testais (jei padengimas yra mažesnis - jis turi būti motyvuotas) 
-  8) Vartotojo sąsaja turi būti aiškiai izoliuota nuo esybes aprašančių klasių. Vartotojo sąsasaja gali būti tiek komandinės eilutės, tiek ir grafinė. Vartotojo sąsaja nebūtinai turi būti programuojama taikant elgsena paremtą programavimą.
-  9) Negalima naudoti Rails ar kokio nors kito karkaso atliekant šią užduotį. T.y. užduotis turi daugiau demonstruoti gebėjimą programuoti Ruby, o ne naudojimąsi kokiu nors karkasu.
-  10) Programa turi išsaugoti būseną ir ją atstatyti (pvz panaudojant YAML failus)
-  11) Pasirinktu būdų turi būti parodoma, kad programa ir testai buvo rašomi žingsnis po žingsnio ( rekomenduoju Git versijų kontrolės sistemą)
+  7) Esybes aprašančios klasės turi būti 100% padengtos testais (jei padengimas yra mažesnis - jis turi būti motyvuotas). Padengimui patikrinti naudojamas SimpleCov. 
+  8) Reikia panaudoti RuboCop įrankį ir pademonstruoti kodo atitikimą "Ruby Style Guide".
+  9) Vartotojo sąsaja turi būti aiškiai izoliuota nuo esybes aprašančių klasių. Vartotojo sąsasaja gali būti tiek komandinės eilutės, tiek ir grafinė. Vartotojo sąsaja nebūtinai turi būti programuojama taikant elgsena paremtą programavimą.
+  10) Negalima naudoti Rails ar kokio nors kito karkaso atliekant šią užduotį. T.y. užduotis turi daugiau demonstruoti gebėjimą programuoti Ruby, o ne naudojimąsi kokiu nors karkasu.
+  11) Programa turi išsaugoti būseną ir ją atstatyti (pvz panaudojant YAML failus)
+  12) Pasirinktu būdų turi būti parodoma, kad programa ir testai buvo rašomi žingsnis po žingsnio ( rekomenduoju Git versijų kontrolės sistemą)
 
    
 Pastabos:
-Visi reikalavimai turi būti išplidyti prasmingai, o ne tik tam, kad patenkinti formalų reikalavimą.
+Visi reikalavimai turi būti išpildyti prasmingai, o ne tik tam, kad patenkinti formalų reikalavimą.
 
 Įvertinimas: 1.5 balo

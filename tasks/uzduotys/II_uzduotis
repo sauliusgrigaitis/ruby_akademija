@@ -6,11 +6,12 @@ Tikslas - susipažinti su:
 
 Užduotis:
   1) Identifikuoti esminę esybę (pvz. bankinėje sistemoje tai būtų Sąskaita); 
-  2) Įgyvendinti esminės esybės funkcionalumą BDD principu parašant bent 10 testų.
+  2) Įgyvendinti esminės esybės funkcionalumą BDD principu parašant bent 10 testų, kurie testuoja būtent tą dalykinę sritį. Pvz. puikiai tinka testas, kuris bankinėje sistemoje testuoja ar korektiškai nukeliauja pinigai gavėjui, kai siuntėjas atlieka pavedimą. Bet visiškai netinka toks testas, kuris testuoja kokio tipo objektas susikūrė iškvietus 'initialize' metodą, nes tai visiškai neparodo ar sistema veikia korektiškai ar ne.
 
 Reikalavimai:
   1) Visas kodas turi būti 100% padengtas testais.
-  2) Reikia panaudoti simplecov įrankį ir pademonstruoti kodo padengimą testais.
-  3) Jeigu įgyvendinant esminės klasės funkcionalumą prireikia kitų klasių, tai jas taip pat reikia parašyti panaudojant BDD.
+  2) Reikia panaudoti SimpleCov įrankį ir pademonstruoti kodo padengimą testais.
+  3) Reikia panaudoti RuboCop įrankį ir pademonstruoti kodo atitikimą "Ruby Style Guide".
+  4) Jeigu įgyvendinant esminės klasės funkcionalumą prireikia kitų klasių, tai jas taip pat reikia parašyti panaudojant BDD.
 
 Įvertinimas: 1 balas   
