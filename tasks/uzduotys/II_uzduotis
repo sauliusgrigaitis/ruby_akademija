@@ -13,5 +13,6 @@ Reikalavimai:
   2) Reikia panaudoti SimpleCov įrankį ir pademonstruoti kodo padengimą testais.
   3) Reikia panaudoti RuboCop įrankį ir pademonstruoti kodo atitikimą "Ruby Style Guide".
   4) Jeigu įgyvendinant esminės klasės funkcionalumą prireikia kitų klasių, tai jas taip pat reikia parašyti panaudojant BDD.
+  5) Negalima naudoti Rails, ActiveRecord ar kokio nors kito karkaso atliekant šią užduotį. T.y. užduotis turi daugiau demonstruoti gebėjimą programuoti Ruby, o ne naudojimąsi kokiu nors karkasu.
 
 Įvertinimas: 1 balas   
