@@ -12,10 +12,10 @@ Reikalavimai:
   3) Parašyti bent 5 vaizdų testus.
   4) Testiniams duomenims paruošti naudojamas II užduotyje pasirinktas būdas.
   5) Naudojama ankstesnėse užduotyse padaryta programa
-  6) Naudojama Rails 4.1, Ruby 2.1, RSpec 3.1
-  7) Kodo padengimui testais patikrinti naudojamas SimpleCov. 
-  8) Reikia panaudoti RuboCop įrankį ir pademonstruoti kodo atitikimą "Ruby Style Guide".
-  9) Reikia panaudoti Rails_best_practices įrankį visam parašytam kodui. 
+  6) Naudojama Rails 4.2, Ruby 2.2, RSpec 3.3
+  7) Kodo padengimui testais patikrinti naudojamas SimpleCov. Reikia naudoti standartinę RuboCop konfigūraciją. 
+  8) Reikia panaudoti RuboCop įrankį ir pademonstruoti kodo atitikimą "Ruby Style Guide". 
+  9) Reikia panaudoti Reek įrankį ir pademonstruoti, kad kodas neturi tipinių simptomų. Reikia naudoti standartinę Reek konfigūraciją.
 
 
 
