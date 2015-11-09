@@ -21,6 +21,7 @@ Reikalavimai:
   11) Negalima naudoti Rails, ActiveRecord ar kokio nors kito karkaso atliekant šią užduotį. T.y. užduotis turi daugiau demonstruoti gebėjimą programuoti Ruby, o ne naudojimąsi kokiu nors karkasu.
   12) Programa turi išsaugoti būseną ir ją atstatyti (pvz panaudojant YAML failus)
   13) Pasirinktu būdų turi būti parodoma, kad programa ir testai buvo rašomi žingsnis po žingsnio ( rekomenduoju Git versijų kontrolės sistemą)
+  14) Testai turi būti parašyti laikantis http://betterspecs.org/ rekomendacijų.
 
    
 Pastabos:

@@ -16,7 +16,7 @@ Reikalavimai:
   7) Kodo padengimui testais patikrinti naudojamas SimpleCov. Reikia naudoti standartinę RuboCop konfigūraciją. 
   8) Reikia panaudoti RuboCop įrankį ir pademonstruoti kodo atitikimą "Ruby Style Guide". 
   9) Reikia panaudoti Reek įrankį ir pademonstruoti, kad kodas neturi tipinių simptomų. Reikia naudoti standartinę Reek konfigūraciją.
-
+  10) Testai turi būti parašyti laikantis http://betterspecs.org/ rekomendacijų.
 
 
 Pastabos:
