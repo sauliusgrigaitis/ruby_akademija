@@ -13,7 +13,8 @@ Reikalavimai:
   2) Reikia panaudoti SimpleCov įrankį ir pademonstruoti kodo padengimą testais.
   3) Reikia panaudoti RuboCop įrankį kartu su [rubocop-rspec](https://github.com/backus/rubocop-rspec) ir pademonstruoti kodo atitikimą "Ruby Style Guide". Reikia naudoti standartinę RuboCop konfigūraciją.
   4) Reikia panaudoti Reek įrankį ir pademonstruoti, kad kodas neturi tipinių simptomų. Reikia naudoti standartinę Reek konfigūraciją.
-  5) Jeigu įgyvendinant esminės klasės funkcionalumą prireikia kitų klasių, tai jas taip pat reikia parašyti panaudojant BDD.
-  6) Negalima naudoti Rails, ActiveRecord ar kokio nors kito karkaso atliekant šią užduotį. T.y. užduotis turi daugiau demonstruoti gebėjimą programuoti Ruby, o ne naudojimąsi kokiu nors karkasu.
+  5) Reikia pademonstruoti aukštą testų kokybę Mutant įrankio pagalba.
+  6) Jeigu įgyvendinant esminės klasės funkcionalumą prireikia kitų klasių, tai jas taip pat reikia parašyti panaudojant BDD.
+  7) Negalima naudoti Rails, ActiveRecord ar kokio nors kito karkaso atliekant šią užduotį. T.y. užduotis turi daugiau demonstruoti gebėjimą programuoti Ruby, o ne naudojimąsi kokiu nors karkasu.
 
 Įvertinimas: 1 balas   
