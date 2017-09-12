@@ -17,4 +17,7 @@ Reikalavimai:
   6) Jeigu įgyvendinant esminės klasės funkcionalumą prireikia kitų klasių, tai jas taip pat reikia parašyti panaudojant BDD.
   7) Negalima naudoti Rails, ActiveRecord ar kokio nors kito karkaso atliekant šią užduotį. T.y. užduotis turi daugiau demonstruoti gebėjimą programuoti Ruby, o ne naudojimąsi kokiu nors karkasu.
 
+Alternatyvos:
+  Užduotis galima atlikti ir su kita pasirinkta kalba. Bet būtina išpildyti visus užduoties reikalavimus su analogiškais įrankiais pasirinktai kitai kalbai (pvz. pasirinkus Node.js aplinką vietoj SimpleCov panaudoti [Istanbul](https://github.com/gotwarlost/istanbul)). Užduotys yra tęstinės, t.y. reikia pasirinkti tokią kalbą su kuria būtų galima išpildyti visų atsiskaitomų užduočių reikalavimus.
+
 Įvertinimas: 1 balas   

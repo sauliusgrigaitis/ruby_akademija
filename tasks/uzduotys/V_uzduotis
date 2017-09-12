@@ -18,6 +18,9 @@ Reikalavimai:
   9) Reikia panaudoti Reek įrankį ir pademonstruoti, kad kodas neturi tipinių simptomų. Reikia naudoti standartinę Reek konfigūraciją.
   10) Reikia pademonstruoti aukštą testų kokybę Mutant įrankio pagalba.
 
+Alternatyvos:
+  Užduotis galima atlikti ir su kita pasirinkta kalba. Bet būtina išpildyti visus užduoties reikalavimus su analogiškais įrankiais pasirinktai kitai kalbai (pvz. pasirinkus Node.js aplinką vietoj SimpleCov panaudoti [Istanbul](https://github.com/gotwarlost/istanbul)). Užduotys yra tęstinės, t.y. reikia pasirinkti tokią kalbą su kuria būtų galima išpildyti visų atsiskaitomų užduočių reikalavimus.
+
 Pastabos:
 Visi reikalavimai turi būti išpildyti prasmingai, o ne tik tam, kad patenkinti formalų reikalavimą.
 
