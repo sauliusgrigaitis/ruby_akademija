@@ -1,11 +1,13 @@
-Tikslas - sugalvoti užduoties temą ir aprašyti užduoties sąvybes.
+Tikslas - suformuoti 4-5 narių komandą, sugalvoti komandos pavadinimą, sugalvoti užduoties temą ir aprašyti kuriamo projekto sąvybes.
+
+SVARBU: visose užduotyse (I, II, III, IV, V) visi kiekybiniai reikalavimai yra nurodyti vienam nariui. T.y. jeigu narių yra 5, tai esybių projekte turi būti 25.
 
 Užduotis:
   1) Sugalvoti užduoties temą (negali kartotis su šio semestro jau užregistruotomis temomis https://github.com/sauliusgrigaitis/agile_development_with_ruby/tree/master/tasks/temos)
   2) Sugalvoti bent 30 sistemos savybių iš sistemos naudotojų pusės ( pavyzdys http://github.com/sauliusgrigaitis/bank/blob/master/uzduotys/savybes ). Kuo daugiau sugalvosite, tuo geriau, nes nebūtina visų įgyvendinti, svarbu įgyvendinti svarbiausias.
   3) Surušiuoti sistemos savybes pagal jų svarbą, t.y. pirmos savybės bus tos, kurios teikia didžiausią naudą vartotojui. 
-  4) Susigrupuoti į komandas iš 1-2 žmonių
-  5) 1), 2), 3) ir 4) užregistruoti el. paštu saulius at necolt taškas com būtinai nurodant studento pažymėjimo numerį.
+  4) Susigrupuoti į komandas iš 4-5 žmonių. Visi kiekybiniai reikalavimai nurodyti visose užduotyse dauginasi iš žmonių komandoje skaičiaus.
+  5) 1), 2), 3) ir 4) užregistruoti el. paštu saulius at necolt taškas com būtinai nurodant studentų pažymėjimo numerius.
 
 Reikalavimai:
   1) Užduoties tema turi būti pakankamos apimties, minimalus reikalavimas yra 5 esminės esybės (ne sąvybės). Pvz. jei kuriama bankinė sistema, tai esminės esybės būtų: Sąskaita, Vartotojas, Tranzakcija, Valiuta, PalūkanųNorma.
